@@ -9,7 +9,7 @@ Download the [Microsoft SDK 10.0.19041.0](https://go.microsoft.com/fwlink/?linki
 
 Download the [clumsy source code](https://github.com/jagt/clumsy)
 
-Download rename.ps1
+Download [rename.ps1](https://github.com/yk3thn/custom-clumsy/blob/main/rename.ps1)
 
 Open these two pastebins
 https://pastebin.com/0zhYCJdU
