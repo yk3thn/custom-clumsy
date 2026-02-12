@@ -1,26 +1,19 @@
-# clumsy
+# custom clumsy
 
-__clumsy makes your network condition on Windows significantly worse, but in a managed and interactive manner.__
+features: custom hotkey for Start/Stop (default is Q)
 
-Leveraging the awesome [WinDivert](http://reqrypt.org/windivert.html), clumsy stops living network packets and capture them, lag/drop/tamper/.. the packets on demand, then send them away. Whether you want to track down weird bugs related to broken network, or evaluate your application on poor connections, clumsy will come in handy:
+How to Compile:
+Download [ZigLang](https://ziglang.org/download/)
 
-* No installation.
-* No need for proxy setup or code change in your application.
-* System wide network capturing means it works on any application.
-* Works even if you're offline (ie, connecting from localhost to localhost).
-* Your application keeps running, while clumsy can start and stop anytime.
-* Interactive control how bad the network can be, with enough visual feedback to tell you what's going on.
+Download the [Microsoft SDK 10.0.19041.0](https://go.microsoft.com/fwlink/?linkid=2331960)
 
-See [this page](http://jagt.github.io/clumsy) for more info and build instructions.
+Download the [clumsy source code](https://github.com/jagt/clumsy)
 
+Download rename.ps1
 
-## Details
+Open these two pastebins
+https://pastebin.com/0zhYCJdU
+https://pastebin.com/ikkL4yky
 
-Simulate network latency, delay, packet loss with clumsy on Windows 7/8/10:
-
-![](clumsy-demo.gif)
-
-
-## License
-
-MIT
+for the rest you need to go to 4:50 in my video tutorial sorry
+https://youtu.be/wid1Ile_4_M?t=290
